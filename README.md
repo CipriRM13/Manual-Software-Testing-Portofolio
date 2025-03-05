@@ -13,7 +13,7 @@ Aspiring QA Tester with hands-on experience gained through completing a software
 ## 📂 My Projects
 - [Test Cases for Banking App](./Project-1(Guru99%20Banking%20App)/Test%20Cases/)
 - [Bug Reports](./Project-1(Guru99%20Banking%20App)/Bug%20Reports/)
-- [Test Cases for Money Manager App] (.
+- [Test Cases for Money Manager App] (.Project-2(Money%20Manager%20App)/Test%20Cases/)
 
 ## 📄 CV & Contact
 - [Download My CV](./CV/CV.pdf)
