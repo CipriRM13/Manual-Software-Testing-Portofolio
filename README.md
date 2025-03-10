@@ -5,7 +5,8 @@ Aspiring QA Tester with hands-on experience gained through completing a software
 
 ## 🛠 Skills
 - Test Case Design (Qase, TestRail)
-- Bug Tracking (Jira, Trello)
+- Bug Tracking (Jira)
+- Task Organization(Trello)
 - SQL for Database Testing
 - Basic Experience with API Testing (Postman)
 
