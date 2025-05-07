@@ -18,6 +18,6 @@ Aspiring QA Tester with hands-on experience gained through completing a software
 - [Bug Reports for Money Manager App](./Project-2(Money%20Manager%20App)/Bug%20Reports/)
   
 ## 📄 CV & Contact
-- [See My CV](./(My%20Resume)/)
+- [See My CV](My%20Resume/CV%20-%20Ciprian-Emanuel%20Baltă.pdf)
 - LinkedIn: [My Profile](https://www.linkedin.com/in/yourprofile)
 - GitHub: [@CipriRM13](https://github.com/CipriRM13)
