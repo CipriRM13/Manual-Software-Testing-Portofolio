@@ -1,4 +1,4 @@
-# My Software Testing Portfolio
+# My Software Testing Portofolio
 This repository showcases my skills as a manual software tester. It includes my background studies, test cases, bug reports, and other testing-related documentation.
 ## 📌 About Me
 Aspiring QA Tester with hands-on experience gained through completing a software testing course and practical projects.
